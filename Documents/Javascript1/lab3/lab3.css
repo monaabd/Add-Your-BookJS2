@@ -1,0 +1,53 @@
+ 
+body{
+    padding: 40px ;
+
+}
+
+.con{
+    display:flex;
+    justify-content: space-around;
+    width:50vw;
+
+}
+#menu{
+    height:60px;
+    
+}
+.bar-menu{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.main-panel{
+    display:flex;
+    justify-content: center;
+}
+.fa-bars{
+    display: flex;
+    margin-left: 30px;
+}
+
+.color-div{
+    display:flex;
+    flex-direction: column;
+    width:40%;
+    
+}
+
+.status-bar{
+    
+    height: 50px;
+    border:1px dotted blue;
+    background-color: aqua;
+    
+    
+}
+canvas{
+    border:5px dotted fuchsia;
+    margin-left: 50px;
+    background-color: chartreuse;
+
+}
